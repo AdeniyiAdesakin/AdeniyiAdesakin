@@ -12,7 +12,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adeniyiadesakin/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adeniyiadesakin/azure-network-protocols)
 - <b>Windows Clients OS Configuration</b>
-  - [Download and install Windows 11 Pro and Windows Server 2019](https://github.com/adeniyiadesakin/configure-ad)
+  - [Operating System Installation](https://github.com/adeniyiadesakin/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adeniyiadesakin/azure-network-protocols)
 
 
