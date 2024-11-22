@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adeniyiadesakin/azure-network-protocols)
 - <b>Windows Clients OS Configuration</b>
   - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
-  - [Prepare the Clients and the Server](https://github.com/adeniyiadesakin/azure-network-protocols)
+  - [Prepare the Clients and the Server](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
 
 
 <h2>🤳Connect with me:</h2>
