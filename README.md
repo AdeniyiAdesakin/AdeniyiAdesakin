@@ -14,6 +14,7 @@
 - <b>Windows Clients OS Configuration</b>
   - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
   - [Prepare the Clients and the Server](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
+  - [Connect all VMs to the same virtual Network(VMnet19 in VMware Workstation Pro)](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
 
 
 <h2>🤳Connect with me:</h2>
