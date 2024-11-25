@@ -20,6 +20,7 @@
   - [Joining Windows 11(client computer) to ADDS](https://github.com/AdeniyiAdesakin/Join-Windows-11-client-computer-to-ADDS/tree/main)
   - [Create Domain Users and verify login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
   - [Windows Powershell - Create AD Users using powershell commands](https://github.com/AdeniyiAdesakin/Create-AD-users-using-powershell-commands)
+  - [Troubleshooting Connectivity using ICMP (Ping)](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
 
 
 <h2>🤳Connect with me:</h2>
