@@ -8,9 +8,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osticket-prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/adeniyiadesakin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/adeniyiadesakin/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Windows Device Configuration</b>
+  - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/adeniyiadesakin/configure-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adeniyiadesakin/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adeniyiadesakin/azure-network-protocols)
+  - [Setup client to server VPN to your home network](https://github.com/adeniyiadesakin/azure-network-protocols)
 - <b>Windows Clients OS Configuration</b>
   - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
   - [Prepare the Clients and the Server](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
