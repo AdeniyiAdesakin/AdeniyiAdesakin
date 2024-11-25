@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/adeniyiadesakin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/adeniyiadesakin/ticket-lifecycle)
 - <b>Windows Device Configuration</b>
-  - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/adeniyiadesakin/configure-ad)
+  - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adeniyiadesakin/configure-ad)
   - [Setup client to server VPN to your home network](https://github.com/adeniyiadesakin/azure-network-protocols)
 - <b>Windows Clients OS Configuration</b>
