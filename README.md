@@ -16,6 +16,7 @@
   - [Prepare the Clients and the Server](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
   - [Connect all VMs to the same virtual Network in VMware Workstation Pro](https://github.com/AdeniyiAdesakin/Connect-all-VMs-to-the-same-virtual-Network-VMnet19-in-VMware-Workstation-Pro-)
   - [Install Active Directory Domain Services (ADDS)](https://github.com/AdeniyiAdesakin/Install-Active-Directory-Domain-Services-ADDS)
+  - [Joining Windows 11(client computer) to ADDS](https://github.com/AdeniyiAdesakin/Join-Windows-11-client-computer-to-ADDS/blob/main/README.md)
   - [Create Domain Users and verify login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
 
 
