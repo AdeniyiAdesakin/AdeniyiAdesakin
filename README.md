@@ -8,7 +8,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osticket-prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/adeniyiadesakin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/adeniyiadesakin/ticket-lifecycle)
--<b>Windows Server Installation and Storage<b>
+-<b>Windows Server Installation and Storage</b>
    -[Organizational Unit, Groups and Users in Active Directory](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
 - <b>Windows Server Networking</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
