@@ -11,7 +11,7 @@
 - <b>Windows Server Installation and Storage</b>
   - [Organizational Unit, Groups and Users in Active Directory](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
   - [Windows Powershell to Create OUs, Groups and Users](https://github.com/AdeniyiAdesakin/Windows-Powershell-to-Create-OUs-Groups-and-Users)
-  - [Group Policy Object (GPO) implementations ]()
+  - [Group Policy Object (GPO) implementations ](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
 - <b>Windows Server Networking</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/adeniyiadesakin/post-install-config)
