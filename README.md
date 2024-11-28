@@ -10,6 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/adeniyiadesakin/ticket-lifecycle)
 - <b>Windows Server Installation and Storage</b>
   - [Organizational Unit, Groups and Users in Active Directory](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
+  - [Windows Powershell to Create OUs, Groups and Users]()
 - <b>Windows Server Networking</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/adeniyiadesakin/post-install-config)
