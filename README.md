@@ -11,6 +11,7 @@
 - <b>Windows Server Installation and Storage</b>
   - [Organizational Unit, Groups and Users in Active Directory using GUI & Powershell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
   - [Group Policy Object (GPO) implementations ](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
+  - [Windows Powershell - Import bulk Users from a CSV Spreadsheet with PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
 - <b>Windows Server Networking</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/adeniyiadesakin/post-install-config)
