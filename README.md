@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/adeniyiadesakin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/adeniyiadesakin/ticket-lifecycle)
 - <b>Windows Server Security</b>
-  - [Securing Windows Server 2019 account Using GPO(Restrict Logon Access|Password Policies|Audit Policies]()
+  - [Securing Windows Server 2019 account Using GPO(Restrict Logon Access|Password Policies|Audit Policies](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall]()
   - [Computer certificate]()
 - <b>Windows Server Installation and Storage</b>
