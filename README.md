@@ -11,7 +11,6 @@
 - <b>Active Directory using Hyper V</b>
   - [Windows Server infrastructure using Hyper-V)]()
   - [RODC (Read-Only Domain Controller) Setup]()
-  
 - <b>Windows Server Security</b>
   - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
