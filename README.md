@@ -11,7 +11,7 @@
 - <b>Windows Server Security</b>
   - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
-  - [Computer certificate]()
+  - [Computer certificate - Installation, Configuration & Usage](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)
 - <b>Windows Server Installation and Storage</b>
   - [Organizational Unit, Groups and Users in Active Directory using GUI & Powershell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
   - [Group Policy Object (GPO) implementations ](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
