@@ -24,7 +24,7 @@
   - [Windows Powershell - Import bulk Users from a CSV Spreadsheet with PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
 - <b>Windows Server Networking</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
-  - [DHCP Installation and Configuration](https://github.com/adeniyiadesakin/post-install-config)
+  - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
   - [Windows Powershell - Install DHCP and Assign Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
 - <b>Windows Device Configuration</b>
   - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
