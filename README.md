@@ -7,7 +7,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osticket-prereqs/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/adeniyiadesakin/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/adeniyiadesakin/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
 - <b>Active Directory using Hyper V</b>
   - [Windows Server infrastructure using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
   - [Active Directory Installation and Creation of OUs, Users & Groups)](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
