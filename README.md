@@ -26,10 +26,10 @@
   - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
   - [Windows Powershell - Install DHCP and Assign Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
 - <b>Windows Server Installation and Storage</b>
-  - [Organizational Unit, Groups and Users in Active Directory using GUI & Powershell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
-  - [Group Policy Object (GPO) implementations ](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
+  - [Organizational Unit, Groups and Users Creation in Active Directory using GUI & Powershell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
+  - [Group Policy Object (GPO) implementations](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
   - [Resource Access -Sharing a Printer & Configuring Network File Shares and Permissions](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
-  - [Windows Powershell - Import bulk Users from a CSV Spreadsheet with PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
+  - [Windows Powershell - Creating bulk Users from a CSV Spreadsheet within PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
 - <b>Windows Server Security</b>
   - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
