@@ -7,7 +7,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/AdeniyiAdesakin/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
+  - [osTicket: Ticket Lifecycle Example](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
 - <b>Windows Clients OS Configuration</b>
   - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
   - [Preparing the Clients/Server and Connecting all on the same Virtual Network(VMnet)](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
