@@ -5,7 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osticket-prereqs/blob/main/README.md)
+  - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/adeniyiadesakin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
 - <b>Active Directory using Hyper V</b>
