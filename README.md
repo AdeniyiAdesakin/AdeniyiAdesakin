@@ -11,8 +11,7 @@
 - <b>Windows Clients OS Configuration</b>
   - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
   - [Preparing the Clients/Server and Connecting all on the same Virtual Network(VMnet)](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
-  - [Installing Active Directory Domain Services (ADDS)](https://github.com/AdeniyiAdesakin/Install-Active-Directory-Domain-Services-ADDS)
-  - [Joining Windows 11(client computer) to ADDS](https://github.com/AdeniyiAdesakin/Join-Windows-11-client-computer-to-ADDS/tree/main)
+  - [Active Directory Installation and Joining a Client's Computer to Active Directory](https://github.com/AdeniyiAdesakin/Install-Active-Directory-Domain-Services-ADDS)
   - [Creating Domain Users and verifying login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
   - [Windows Powershell - Creating AD Users using powershell commands](https://github.com/AdeniyiAdesakin/Create-AD-users-using-powershell-commands)
   - [Troubleshooting Connectivity using ICMP (Ping)](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
