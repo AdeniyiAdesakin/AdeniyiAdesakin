@@ -21,23 +21,20 @@
 - <b>Cloud Infrastructure sync with On-Premises Active Directory</b>
   - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory/tree/main)
-  - 
 - <b>DNS and DHCP Implementation in a Domain Environment</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
   - [Windows Powershell - Installing DHCP and Assigning Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
-
-<b>GPOs and SMB Implement in a Domain Environment </b>
+- <b>GPOs and SMB Implement in a Domain Environment </b>
   - [Group Policy Object (GPO) implementations](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
   - [Resource Access -Sharing a Printer & Configuring Network File Shares and Permissions](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
-
 - <b>Windows Server Security</b>
   - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
   - [Computer certificate - Installation, Configuration & Usage](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)  
 - <b>Active Directory using Hyper V</b>
   - [Windows Server infrastructure using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
-  - [Active Directory Installation and Creation of OUs, Users & Groups)](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
+  - [Active Directory Installation and Creation of OUs, Users & Groups](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
   - [RODC (Read-Only Domain Controller) Setup](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
   - [DHCP Installation and Setup on Member Server(MS1) using only Windows Powershell](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-setup-on-Member-Server-MS1-)
 - <b>VPN Setup for Remote Users in a Working Environment</b>
