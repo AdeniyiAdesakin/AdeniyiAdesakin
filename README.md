@@ -15,7 +15,7 @@
   - [Creating Domain Users and verifying login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
   - [Windows Powershell - Creating AD Users using powershell commands](https://github.com/AdeniyiAdesakin/Create-AD-users-using-powershell-commands)
   - [Troubleshooting Connectivity using ICMP (Ping)](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
-- <b>Creation of Organizational Units, Groups and Users//GPO and SMB Implementations </b>
+- <b>Creation of Organizational Units, Groups and Users in Active Directory </b>
   - [Organizational Unit, Groups and Users Creation in Active Directory using GUI & PowerShell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
   - [Windows Powershell - Creating bulk Users from a CSV Spreadsheet within PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
 - <b>Cloud Infrastructure sync with On-Premises Active Directory</b>
