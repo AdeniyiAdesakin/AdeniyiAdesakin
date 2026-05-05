@@ -20,7 +20,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory/tree/main)
   - [Setup client to server VPN for Remote Access](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
   - [Softether VPN for Remote Access](https://github.com/AdeniyiAdesakin/Soft-Ether-VPN-for-Remote-Access)    
-- <b>Windows Server Networking</b>
+- <b>DNS and DHCP Implementation in a Domain Environment</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
   - [Windows Powershell - Install DHCP and Assign Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
