@@ -37,7 +37,7 @@
   - [Windows Server infrastructure using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
   - [Active Directory Installation and Creation of OUs, Users & Groups)](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
   - [RODC (Read-Only Domain Controller) Setup](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
-  - [Windows Powershell - DHCP Installation and Setup on Member Server(MS1)](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-setup-on-Member-Server-MS1-)
+  - [DHCP Installation and Setup on Member Server(MS1) using only Windows Powershell](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-setup-on-Member-Server-MS1-)
 
 
 
