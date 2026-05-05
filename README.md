@@ -22,7 +22,7 @@
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
   - [Windows Powershell - Installing DHCP and Assigning Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
-- <b>Windows Server Installation and Storage</b>
+- <b>Creation of Organizational Units, Groups and Users//GPO and SMB Implementations </b>
   - [Organizational Unit, Groups and Users Creation in Active Directory using GUI & Powershell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
   - [Group Policy Object (GPO) implementations](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
   - [Resource Access -Sharing a Printer & Configuring Network File Shares and Permissions](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
