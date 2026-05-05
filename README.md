@@ -8,14 +8,14 @@
   - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/AdeniyiAdesakin/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Example](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
-- <b>Windows Clients OS Configuration</b>
+- <b>Windows Clients Operating System Configuration</b>
   - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
   - [Preparing the Clients/Server and Connecting all on the same Virtual Network(VMnet)](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
   - [Active Directory Installation and Joining a Client's Computer to Active Directory](https://github.com/AdeniyiAdesakin/Install-Active-Directory-Domain-Services-ADDS)
   - [Creating Domain Users and verifying login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
   - [Windows Powershell - Creating AD Users using powershell commands](https://github.com/AdeniyiAdesakin/Create-AD-users-using-powershell-commands)
   - [Troubleshooting Connectivity using ICMP (Ping)](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
-- <b>Microsoft Azure Sync with On-Premises Active Directory</b>
+- <b>Cloud Infrastructure sync with On-Premises Active Directory</b>
   - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory/tree/main)
   - [Setup client to server VPN for Remote Access](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
