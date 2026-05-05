@@ -18,8 +18,6 @@
 - <b>Cloud Infrastructure sync with On-Premises Active Directory</b>
   - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory/tree/main)
-  - [Setup client to server VPN for Remote Access](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
-  - [Softether VPN for Remote Access](https://github.com/AdeniyiAdesakin/Soft-Ether-VPN-for-Remote-Access)    
 - <b>DNS and DHCP Implementation in a Domain Environment</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
@@ -38,6 +36,9 @@
   - [Active Directory Installation and Creation of OUs, Users & Groups)](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
   - [RODC (Read-Only Domain Controller) Setup](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
   - [DHCP Installation and Setup on Member Server(MS1) using only Windows Powershell](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-setup-on-Member-Server-MS1-)
+- <b>VPN Setup for Remote Users in a Working Environment</b>
+  - [Setup client to server VPN for Remote Access](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
+  - [Softether VPN for Remote Access](https://github.com/AdeniyiAdesakin/Soft-Ether-VPN-for-Remote-Access)    
 
 
 
