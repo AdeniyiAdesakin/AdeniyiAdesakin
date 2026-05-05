@@ -15,18 +15,22 @@
   - [Creating Domain Users and verifying login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
   - [Windows Powershell - Creating AD Users using powershell commands](https://github.com/AdeniyiAdesakin/Create-AD-users-using-powershell-commands)
   - [Troubleshooting Connectivity using ICMP (Ping)](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
+- <b>Creation of Organizational Units, Groups and Users//GPO and SMB Implementations </b>
+  - [Organizational Unit, Groups and Users Creation in Active Directory using GUI & PowerShell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
+  - [Windows Powershell - Creating bulk Users from a CSV Spreadsheet within PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
 - <b>Cloud Infrastructure sync with On-Premises Active Directory</b>
   - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory/tree/main)
+  - 
 - <b>DNS and DHCP Implementation in a Domain Environment</b>
   - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
   - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
   - [Windows Powershell - Installing DHCP and Assigning Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
-- <b>Creation of Organizational Units, Groups and Users//GPO and SMB Implementations </b>
-  - [Organizational Unit, Groups and Users Creation in Active Directory using GUI & Powershell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
+
+<b>GPOs and SMB Implement in a Domain Environment </b>
   - [Group Policy Object (GPO) implementations](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
   - [Resource Access -Sharing a Printer & Configuring Network File Shares and Permissions](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
-  - [Windows Powershell - Creating bulk Users from a CSV Spreadsheet within PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
+
 - <b>Windows Server Security</b>
   - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
