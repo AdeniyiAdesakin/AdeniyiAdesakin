@@ -32,7 +32,7 @@
   - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
   - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
   - [Computer certificate - Installation, Configuration & Usage](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)  
-- <b>Active Directory using Hyper V</b>
+- <b>Active Directory Implementation using Hyper V</b>
   - [Windows Server infrastructure using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
   - [Active Directory Installation and Creation of OUs, Users & Groups](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
   - [RODC (Read-Only Domain Controller) Setup](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
