@@ -39,7 +39,7 @@
   - [DHCP Installation and Setup on Member Server(MS1) using only Windows Powershell](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-setup-on-Member-Server-MS1-)
 - <b>VPN Setup for Remote Users in a Working Environment</b>
   - [Setup client to server VPN for Remote Access](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
-  - [Softether VPN for Remote Access](https://github.com/AdeniyiAdesakin/Soft-Ether-VPN-for-Remote-Access)    
+  - [Softether VPN for Remote Access](https://github.com/AdeniyiAdesakin/Soft-Ether-VPN-for-Remote-Access)  
 
 
 
