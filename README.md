@@ -1,6 +1,18 @@
-## Hi there 👋
+<h1>Adeniyi Adesakin</h1>
 
-<h1>Hi, I'm Adeniyi, an <a href="https://linkedin.com/in/adeniyiadesakin/">IT Professional</a>☺</h1>
+<h3> IT Support | Windows Administration | Active Directory | PowerShell </h3>
+
+<h3>CompTIA A+ | Network+ | Security+ | Diploma in Cybersecurity</h3>
+
+<h3>Calgary, Alberta</h3>
+
+<h4>IT support professional with hands-on lab experience in Windows Server,
+Active Directory, Microsoft Entra ID, PowerShell automation, networking,
+ticketing systems, and secure remote access. My customer service background
+also helps me communicate clearly, troubleshoot patiently, and support users
+with different levels of technical knowledge.</h4>
+
+[LinkedIn](https://www.linkedin.com/in/adeniyiadesakin/) | [Email](adeniyiadesakin1@gmail.com) </h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
