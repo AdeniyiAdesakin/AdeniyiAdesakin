@@ -16,7 +16,7 @@ with different levels of technical knowledge.</h4>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket Help Desk System and Ticket Lifecycle Lab</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/AdeniyiAdesakin/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Example](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
