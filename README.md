@@ -1,58 +1,87 @@
-<h1>Adeniyi Adesakin</h1>
+# Adeniyi Adesakin
 
-<h3> IT Support | Windows Administration | Active Directory | PowerShell </h3>
+### IT Support | Windows Administration | Active Directory | PowerShell
 
-<h3>CompTIA A+ | Network+ | Security+ | Diploma in Cybersecurity</h3>
+Calgary-based IT support professional with hands-on experience building, configuring, and troubleshooting Windows environments. My background combines technical support, Windows Server administration, networking, identity management, ticketing systems, and customer service.
 
-<h3>Calgary, Alberta</h3>
+I enjoy solving technical problems, explaining solutions clearly, and helping users feel confident with technology. I am currently pursuing opportunities in **IT Support, Help Desk, Service Desk, and Technical Support**.
 
-<h4>IT support professional with hands-on lab experience in Windows Server,
-Active Directory, Microsoft Entra ID, PowerShell automation, networking,
-ticketing systems, and secure remote access. My customer service background
-also helps me communicate clearly, troubleshoot patiently, and support users
-with different levels of technical knowledge.</h4>
+[LinkedIn](https://www.linkedin.com/in/adeniyiadesakin/) | [Email](mailto:adeniyiadesakin1@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/adeniyiadesakin/) | [Email](mailto:adeniyiadesakin1@gmail.com) </h2>
+---
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## Technical Skills
 
-- <b>osTicket Help Desk System and Ticket Lifecycle Lab</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AdeniyiAdesakin/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/AdeniyiAdesakin/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Example](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
-- <b>Windows Clients Operating System Configuration</b>
-  - [Operating System Installation](https://github.com/AdeniyiAdesakin/Operating-System-Installation/tree/main)
-  - [Preparing the Clients/Server and Connecting all on the same Virtual Network(VMnet)](https://github.com/AdeniyiAdesakin/Prepare-the-Clients-and-the-Server/tree/main)
-  - [Active Directory Installation and Joining a Client's Computer to Active Directory](https://github.com/AdeniyiAdesakin/Install-Active-Directory-Domain-Services-ADDS)
-  - [Creating Domain Users and verifying login](https://github.com/AdeniyiAdesakin/Create-Domain-Users-on-ADDS/tree/main)
-  - [Windows Powershell - Creating AD Users using powershell commands](https://github.com/AdeniyiAdesakin/Create-AD-users-using-powershell-commands)
-  - [Troubleshooting Connectivity using ICMP (Ping)](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
-- <b>Creation of Organizational Units, Groups and Users in Active Directory </b>
-  - [Organizational Unit, Groups and Users Creation in Active Directory using GUI & PowerShell](https://github.com/AdeniyiAdesakin/Create-OU-groups-users-in-AD)
-  - [Windows Powershell - Creating bulk Users from a CSV Spreadsheet within PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
-- <b>Cloud Infrastructure sync with On-Premises Active Directory</b>
-  - [Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID ](https://github.com/AdeniyiAdesakin/Microsoft-Azure-Sign-up-and-Windows-clients-enrollment-to-Microsoft-Entra-ID-)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory/tree/main)
-- <b>DNS and DHCP Implementation in a Domain Environment</b>
-  - [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration)
-  - [DHCP Installation and Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration)
-  - [Windows Powershell - Installing DHCP and Assigning Scope](https://github.com/AdeniyiAdesakin/Windows-Powershell-Install-DHCP-and-Assign-Scope)
-- <b>GPOs and SMB Implementation in a Domain Environment </b>
-  - [Group Policy Object (GPO) implementations](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations-)
-  - [Resource Access -Sharing a Printer & Configuring Network File Shares and Permissions](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
-- <b>Windows Server Security</b>
-  - [Securing Windows Server 2019 account Using GPO - (Restrict Logon Access| Password Policies| Audit Policies)](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
-  - [Blocking DHCP and SMB Services Using GPO and firewall](https://github.com/AdeniyiAdesakin/-Blocking-DHCP-and-SMB-Services-Using-GPO-and-firewall)
-  - [Computer certificate - Installation, Configuration & Usage](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)  
-- <b>Active Directory Implementation using Hyper V</b>
-  - [Windows Server infrastructure using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
-  - [Active Directory Installation and Creation of OUs, Users & Groups](https://github.com/AdeniyiAdesakin/Active-Directory-Installation-and-Creation-of-OUs-Users-Groups)
-  - [RODC (Read-Only Domain Controller) Setup](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
-  - [DHCP Installation and Setup on Member Server(MS1) using only Windows Powershell](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-setup-on-Member-Server-MS1-)
-- <b>VPN Setup for Remote Users in a Working Environment</b>
-  - [Setup client to server VPN for Remote Access](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
-  - [Softether VPN for Remote Access](https://github.com/AdeniyiAdesakin/Soft-Ether-VPN-for-Remote-Access)  
+- **Operating Systems:** Windows Server 2019, Windows 10/11
+- **Identity and Administration:** Active Directory Domain Services, Microsoft Entra ID, OUs, security groups, user administration, Group Policy
+- **Networking:** TCP/IP, DNS, DHCP, VPN, ICMP, network shares and permissions
+- **Support Tools:** osTicket, remote access, ticket prioritization, troubleshooting and documentation
+- **Automation:** Windows PowerShell, CSV-based user provisioning
+- **Virtualization and Cloud:** Hyper-V, Azure virtual machines, hybrid identity
 
+---
+
+## Featured Projects
+
+### Windows Server and Active Directory Administration
+
+Built a multi-machine Windows lab using Hyper-V, Windows Server 2019, and Windows clients. Configured domain services, joined client and member-server systems to the domain, organized users and resources, and verified domain authentication.
+
+**Skills demonstrated:** Hyper-V, AD DS, domain joining, OUs, security groups, user administration, Group Policy and PowerShell.
+
+[Infrastructure Setup](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V) | [Identity Administration](https://github.com/AdeniyiAdesakin/Active-Directory-Implementation) | [Group Policy](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations)
+
+### Help Desk Ticketing and Incident Lifecycle
+
+Deployed osTicket on Windows with IIS and configured the platform for help desk operations. Practised ticket intake, categorization, prioritization, assignment, user communication, troubleshooting, resolution documentation, and closure.
+
+**Skills demonstrated:** ticket management, SLAs, support queues, incident documentation, customer communication and IIS.
+
+[Installation](https://github.com/AdeniyiAdesakin/osTicket-Prerequisites-and-Installation) | [Configuration](https://github.com/AdeniyiAdesakin/osTicket-Post-Installation-Configuration) | [Ticket Lifecycle](https://github.com/AdeniyiAdesakin/osTicket-Ticket-Lifecycle-Examples)
+
+### Hybrid Active Directory and Microsoft Entra ID
+
+Connected an on-premises Active Directory environment with Microsoft Entra ID using Microsoft Entra Connect. Enabled the required TLS configuration, completed directory synchronization, and verified that synchronized identities appeared in Entra ID.
+
+**Skills demonstrated:** Microsoft Entra ID, Entra Connect, identity synchronization, Windows Server and hybrid identity.
+
+[View Hybrid Identity Project](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory)
+
+### Windows Network Services and Remote Access
+
+Configured core Windows network services, including DNS and DHCP, created and activated DHCP scopes, tested client addressing, and implemented VPN connectivity for remote access.
+
+**Skills demonstrated:** DNS, DHCP, TCP/IP, address assignment, connectivity testing, VPN and remote access.
+
+[DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration) | [DHCP Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration) | [VPN Setup](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
+
+---
+
+## Additional Hands-On Labs
+
+- [Bulk Active Directory User Provisioning with PowerShell](https://github.com/AdeniyiAdesakin/Import-bulk-Users-from-a-CSV-Spreadsheet-with-PowerShell-)
+- [Windows Server Account Security with Group Policy](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
+- [Network File Shares, Permissions and Printer Sharing](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
+- [Computer Certificate Installation and Configuration](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)
+- [Read-Only Domain Controller Deployment](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
+- [ICMP Connectivity Troubleshooting](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
+
+---
+
+## Certifications and Education
+
+- **CompTIA A+**
+- **CompTIA Network+**
+- **CompTIA Security+**
+- **Diploma in Cybersecurity**
+
+---
+
+## Let’s Connect
+
+I am open to IT Support, Help Desk, Service Desk, and Technical Support opportunities in Calgary or remote environments.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/adeniyiadesakin/) | [Send me an email](mailto:adeniyiadesakin1@gmail.com)
 
 
 
