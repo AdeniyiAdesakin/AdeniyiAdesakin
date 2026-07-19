@@ -12,7 +12,7 @@ ticketing systems, and secure remote access. My customer service background
 also helps me communicate clearly, troubleshoot patiently, and support users
 with different levels of technical knowledge.</h4>
 
-[LinkedIn](https://www.linkedin.com/in/adeniyiadesakin/) | [Email](adeniyiadesakin1@gmail.com) </h2>
+[LinkedIn](https://www.linkedin.com/in/adeniyiadesakin/) | [Email](mailto:adeniyiadesakin1@gmail.com) </h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
