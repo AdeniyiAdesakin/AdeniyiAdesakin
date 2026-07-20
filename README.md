@@ -17,7 +17,7 @@ I enjoy solving technical problems, explaining solutions clearly, and helping us
 - **Networking:** TCP/IP, DNS, DHCP, VPN, ICMP, network shares and permissions
 - **Support Tools:** osTicket, remote access, ticket prioritization, troubleshooting and documentation
 - **Automation:** Windows PowerShell, CSV-based user provisioning
-- **Virtualization and Cloud:** Hyper-V, Azure virtual machines, hybrid identity
+- **Virtualization and Cloud:** VMware Workstation Pro, Hyper-V, Azure virtual machines, hybrid identity
 
 ---
 
@@ -27,9 +27,9 @@ I enjoy solving technical problems, explaining solutions clearly, and helping us
 
 Built a multi-machine Windows lab using Hyper-V, Windows Server 2019, and Windows clients. Configured domain services, joined client and member-server systems to the domain, organized users and resources, and verified domain authentication.
 
-**Skills demonstrated:** Hyper-V, AD DS, domain joining, OUs, security groups, user administration, Group Policy and PowerShell.
+**Skills demonstrated:** VMware, AD DS, domain joining, OUs, security groups, user administration, Group Policy and PowerShell.
 
-[Infrastructure Setup](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V) | [Identity Administration](https://github.com/AdeniyiAdesakin/Active-Directory-Implementation) | [Group Policy](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations)
+[Infrastructure Setup](https://github.com/AdeniyiAdesakin/Install-Active-Directory-Domain-Services-and-Join-Client-s-Computer-to-Active-Directory/tree/main) | [Identity Administration](https://github.com/AdeniyiAdesakin/Active-Directory-Implementation) | [Group Policy](https://github.com/AdeniyiAdesakin/Group-Policy-Object-GPO-implementations)
 
 ### Help Desk Ticketing and Incident Lifecycle
 
@@ -65,6 +65,7 @@ Configured core Windows network services, including DNS and DHCP, created and ac
 - [Computer Certificate Installation and Configuration](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)
 - [Read-Only Domain Controller Deployment](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
 - [ICMP Connectivity Troubleshooting](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
+- [Active Directory using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
 
 ---
 
