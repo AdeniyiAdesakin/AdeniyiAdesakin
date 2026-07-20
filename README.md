@@ -25,7 +25,7 @@ I enjoy solving technical problems, explaining solutions clearly, and helping us
 
 ### Windows Server and Active Directory Administration
 
-Built a multi-machine Windows lab using Hyper-V, Windows Server 2019, and Windows clients. Configured domain services, joined client and member-server systems to the domain, organized users and resources, and verified domain authentication.
+Built a multi-machine Windows lab using VMware Workstation Pro, Windows Server 2019, and Windows clients. Configured domain services, joined client and member-server systems to the domain, organized users and resources, and verified domain authentication.
 
 **Skills demonstrated:** VMware, AD DS, domain joining, OUs, security groups, user administration, Group Policy and PowerShell.
 
