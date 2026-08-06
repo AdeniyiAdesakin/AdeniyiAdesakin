@@ -47,13 +47,13 @@ Connected an on-premises Active Directory environment with Microsoft Entra ID us
 
 [View Hybrid Identity Project](https://github.com/AdeniyiAdesakin/Sync-between-MS-Entra-ID-and-On-Premises-Active-Directory)
 
-### Windows Network Services and Remote Access
+### Windows Network Services
 
-Configured core Windows network services, including DNS and DHCP, created and activated DHCP scopes, tested client addressing, and implemented VPN connectivity for remote access.
+Configured core Windows network services by deploying and managing DNS and DHCP on Windows Server. Created and activated DHCP scopes, configured DNS zones, validated client IP address assignment, and verified network connectivity across the domain environment.
 
-**Skills demonstrated:** DNS, DHCP, TCP/IP, address assignment, connectivity testing, VPN and remote access.
+**Skills demonstrated:** Windows Server, DNS, DHCP, TCP/IP, IP address management (IPAM), network troubleshooting, connectivity testing.
 
-[DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration) | [DHCP Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration) | [VPN Setup](https://github.com/AdeniyiAdesakin/Setup-client-to-server-VPN-to-your-home-network)
+[DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration) | [DHCP Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration) 
 
 ---
 
