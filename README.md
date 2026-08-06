@@ -15,7 +15,7 @@ I enjoy solving technical problems, explaining solutions clearly, and helping us
 - **Operating Systems:** Windows Server 2019, Windows 10/11
 - **Identity and Administration:** Active Directory Domain Services, Microsoft Entra ID, OUs, security groups, user administration, Group Policy
 - **Networking:** TCP/IP, DNS, DHCP, VPN, ICMP, network shares and permissions
-- **Support Tools:** osTicket, remote access, ticket prioritization, troubleshooting and documentation
+- **Support Tools:** osTicket, ticket prioritization, troubleshooting and documentation
 - **Automation:** Windows PowerShell, CSV-based user provisioning
 - **Virtualization and Cloud:** VMware Workstation Pro, Hyper-V, Azure virtual machines, hybrid identity
 
