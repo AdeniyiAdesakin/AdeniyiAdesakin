@@ -63,9 +63,9 @@ Configured core Windows network services by deploying and managing DNS and DHCP 
 - [Windows Server Account Security with Group Policy](https://github.com/AdeniyiAdesakin/Securing-Windows-Server-2019-account-Using-GPO)
 - [Network File Shares, Permissions and Printer Sharing](https://github.com/AdeniyiAdesakin/Resource-Access-Sharing-a-printer-and-configuring-a-shared-folder)
 - [Computer Certificate Installation and Configuration](https://github.com/AdeniyiAdesakin/Computer-certificate-installation-setup-and-usage)
-- [Read-Only Domain Controller Deployment](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
 - [ICMP Connectivity Troubleshooting](https://github.com/AdeniyiAdesakin/Troubleshooting-Connectivity-using-ICMP-Ping-)
 - [Active Directory using Hyper-V ](https://github.com/AdeniyiAdesakin/Windows-Server-infrastructure-using-Hyper-V)
+- [Read-Only Domain Controller Deployment](https://github.com/AdeniyiAdesakin/RODC-Read-Only-Domain-Controller-Setup)
 
 ---
 
