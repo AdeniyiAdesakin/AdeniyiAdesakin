@@ -60,7 +60,7 @@ Configured core Windows network services by deploying and managing DNS and DHCP 
 
 Designed and implemented a full campus network infrastructure spanning two geographic locations using Cisco Packet Tracer. Configured routers, switches, VLANs, routing protocols, and inter-site connectivity to simulate a real-world enterprise network.
 
-**Skills demonstrated:** Cisco Packet Tracer, Routing Protocols, Switching Fundamentals, VLANs
+**Skills demonstrated:** Cisco Packet Tracer, Routing Protocols, Switching Fundamentals, VLANs, ACLs
 
 [View Cisco Packet Tracer Campus Network Project](https://github.com/AdeniyiAdesakin/cisco-packet-tracer-campus-network)
 
