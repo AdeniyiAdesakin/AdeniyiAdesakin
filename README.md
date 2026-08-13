@@ -55,6 +55,15 @@ Configured core Windows network services by deploying and managing DNS and DHCP 
 
 [DNS Configuration](https://github.com/AdeniyiAdesakin/DNS-Configuration) | [DHCP Configuration](https://github.com/AdeniyiAdesakin/DHCP-Installation-and-Configuration) 
 
+
+### Cisco Packet Tracer Multi-Site Campus Network
+
+Designed and implemented a full campus network infrastructure spanning two geographic locations using Cisco Packet Tracer. Configured routers, switches, VLANs, routing protocols, and inter-site connectivity to simulate a real-world enterprise network.
+
+**Skills demonstrated:** Cisco Packet Tracer, Routing Protocols, Switching Fundamentals, VLANs
+
+[View Cisco Packet Tracer Campus Network Project](https://github.com/AdeniyiAdesakin/cisco-packet-tracer-campus-network)
+
 ---
 
 ## Additional Hands-On Labs
