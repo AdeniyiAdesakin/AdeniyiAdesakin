@@ -64,6 +64,16 @@ Designed and implemented a full campus network infrastructure spanning two geogr
 
 [View Cisco Packet Tracer Campus Network Project](https://github.com/AdeniyiAdesakin/cisco-packet-tracer-campus-network)
 
+
+
+### SOC Monitoring and Threat Detection with Splunk
+
+Built a centralized SOC monitoring lab in Splunk to collect and analyze security and performance data from Windows Server, Ubuntu, Suricata, and an Android emulator. Created dashboards and SPL searches to monitor system performance, failed logons, process and service activity, firewall and registry changes, Active Directory events, network threats, and mobile application activity.
+
+**Skills demonstrated:** Splunk Enterprise, Universal Forwarder, SPL, Dashboard Studio, Windows Event Logs, Active Directory monitoring, PowerShell, Ubuntu logging, Suricata IDS, MITRE ATT&CK, troubleshooting, and technical documentation.
+
+[View the SOC Monitoring Project](https://github.com/AdeniyiAdesakin/splunk-soc-monitoring-lab)
+
 ---
 
 ## Additional Hands-On Labs
